@@ -1,70 +1,12 @@
-# Getting Started with Create React App
+# climateChangeAnalysis
+This is A full stack web app using React, Node, Google Firebase, Google Places API and 3rd party Zillow API that combines climate change report from Propublica Report (cited in the footer) and current property information pulled from Zillow. This will allow potential buyes to evalutate how their investment will be affected in years 2035-75. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ho to use the website: <br>
+1. Search for any address in the search bar, click magnifying glass icon to search or X to clear the field. <br>
+2. Once the search is complete, you can see the scale from 1 to 10 (1 being least severe and 10 most severe) how much the property will be affected and in categories such as Extreme Heat, Humidity, Crop Yields, Sea Level Rise, Fires and Economic damage to the area. <br>
+3. Below the scale you can see the images of the property pulled from Zillow and more information about the property, tax and price histories, near by homes and schools. <br>
 
-## Available Scripts
+AWS Deployed version can be accessed on daryakutovaya.com or daryakutovaya.org
 
-In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="965" alt="Screenshot 2022-12-06 at 1 04 36 PM" src="https://user-images.githubusercontent.com/55549546/206022635-ef23e5a1-57e9-46e0-bdcf-55e8b2ccf093.png">
