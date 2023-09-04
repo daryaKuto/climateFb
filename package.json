@@ -14,5 +14,10 @@
     "deploy": "npm run build-fe && firebase deploy"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "react-icons": "^4.10.1",
+    "react-places-autocomplete": "^7.3.0"
+  }
 }
