@@ -6,7 +6,7 @@ Ho to use the website: <br>
 2. Once the search is complete, you can see the scale from 1 to 10 (1 being least severe and 10 most severe) how much the property will be affected and in categories such as Extreme Heat, Humidity, Crop Yields, Sea Level Rise, Fires and Economic damage to the area. <br>
 3. Below the scale you can see the images of the property pulled from Zillow and more information about the property, tax and price histories, near by homes and schools. <br>
 
-AWS Deployed version can be accessed on daryakutovaya.com or daryakutovaya.org
+Firebase Deployed version can be accessed on daryakutovaya.com or daryakutovaya.org
 
 
 <img width="965" alt="Screenshot 2022-12-06 at 1 04 36 PM" src="https://user-images.githubusercontent.com/55549546/206022635-ef23e5a1-57e9-46e0-bdcf-55e8b2ccf093.png">
